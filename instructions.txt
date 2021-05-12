@@ -1,0 +1,15 @@
+#HOW TO USE#
+1. put your token inside massdm.py
+2. install requirements || paste this => || pip install -r requirements.txt
+3. run massdm.py using your preferred method
+
+
+
+
+
+
+
+
+
+
+dm me for help ~ fork#6983
